@@ -17,7 +17,7 @@ int main(void)
 	else if(n2>n1)
 	{
 		printf("\n%s",str2);
-	}
+
 	else
 	{
 		printf("\n %s",str2);
